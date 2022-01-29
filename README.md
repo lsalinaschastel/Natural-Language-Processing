@@ -1,5 +1,6 @@
 # Natural-Language-Processing
-Deliverable - UPM
+Deliverable - UPM. 
+
 A classification problem is addressed. The dataset contains cases from the Supreme Court of the USA. The goal is to predict which party wins the case. It has been obtained from kaggle (https://www.kaggle.com/deepcontractor/supreme-court-judgment-prediction/code)
 
 ## How to run the code
